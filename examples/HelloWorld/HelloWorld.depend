@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1642155502 source:/home/carcag/Documents/LearnCPP2022/examples/HelloWorld/main.cpp
+	<iostream>
+
