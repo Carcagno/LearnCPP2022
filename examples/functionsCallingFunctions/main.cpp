@@ -9,7 +9,7 @@ void doA()
 {
     std::cout << "Starting doA()\n";
     doB();
-    std::cout << "Ending doA()\n";
+    std::cout << "Ending doA()\n"
 }
 
 int main()
