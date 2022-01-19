@@ -1,0 +1,28 @@
+#include <iostream>
+
+#include "io."
+
+int readNumber()
+{
+    std::cout << "Enter an Integer: ";
+
+    int userNumber{};
+    std::cin >> userNumber;
+
+    return userNumber;
+}
+
+void writeAnswer(int result)
+{
+    std::cout << result << "\n";
+}
+
+int main()
+{
+    int number1{readNumber()};
+    int number2{readNumber()};
+
+    writeAnswer(number1 + number2);
+
+    return 0;
+}
