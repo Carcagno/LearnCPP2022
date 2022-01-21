@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642597050 source:/home/carcag/Documents/LearnCPP2022/exercises/2.x_functionAndilesQuiz/io.cpp
+	"io.h"
+
+1642597063 /home/carcag/Documents/LearnCPP2022/exercises/2.x_functionAndilesQuiz/io.h
+	<iostream>
+
+1642597118 source:/home/carcag/Documents/LearnCPP2022/exercises/2.x_functionAndilesQuiz/main.cpp
+	<iostream>
+	"io.h"
+
