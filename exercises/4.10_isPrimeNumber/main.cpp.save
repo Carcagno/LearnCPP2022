@@ -1,0 +1,27 @@
+#include <iostream>
+
+int getUserInput()
+{
+    std::cout << "Enter a number between 0 and 1:";
+
+    int userInput{};
+    std::cin >> userInput;
+    
+    if (userInput < 0 || userInput > 9)
+        userInput = getUserInput();
+    return userInput;
+}
+
+bool isePri
+
+int main()
+{
+    int userInput{getUserInput()};
+    
+    if (userInput == 2 || userInput == 3 || userInput == 5 || userInput == 7)
+        std::cout << userInput << " is Prime" << "\n";
+    else
+        std::cout << userInput << " is not Prime" << "\n";
+    
+    return 0;
+}
