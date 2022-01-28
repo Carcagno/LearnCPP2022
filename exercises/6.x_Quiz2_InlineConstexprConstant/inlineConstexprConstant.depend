@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643288272 source:/home/carcag/Documents/LearnCPP2022/exercises/6.x_Quiz2_InlineConstexprConstant/main.cpp
+	<iostream>
+	"constant.h"
+
+1643288389 /home/carcag/Documents/LearnCPP2022/exercises/6.x_Quiz2_InlineConstexprConstant/constant.h
+
