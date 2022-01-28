@@ -1,0 +1,14 @@
+#include <iostream>
+
+
+int main()
+{
+    int outer{5};
+    
+    while (outer >= 1)
+    {
+        
+    }
+    
+    return 0;
+}
