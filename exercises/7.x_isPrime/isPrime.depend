@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643707663 source:/home/carcag/Documents/LearnCPP2022/exercises/7.x_isPrime/main.cpp
+	<iostream>
+	<cassert>
+	<cmath>
+
