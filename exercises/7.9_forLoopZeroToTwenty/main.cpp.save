@@ -1,0 +1,20 @@
+#include <iostream>
+
+int sumTo(int numberTo)
+{
+    int result {};
+    for (int i{1}; i <= numberTo; ++i)
+
+}
+
+int main()
+{
+    for (int i = 0; i <= 20; ++i)
+        std::cout << i << '\n';
+
+    std::cout << "\n\n\n\n\n";
+
+
+
+    return 0;
+}

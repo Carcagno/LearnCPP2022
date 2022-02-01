@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643646192 source:/home/carcag/Documents/LearnCPP2022/examples/7.16_extraction/main.cpp
+	<iostream>
+	<limits>
+
