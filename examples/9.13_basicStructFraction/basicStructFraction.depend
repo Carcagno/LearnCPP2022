@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648621844 source:/home/carcag/Documents/LearnCPP2022/examples/9.13_basicStructFraction/main.cpp
+	<iostream>
+	"fraction.h"
+
+1648621670 /home/carcag/Documents/LearnCPP2022/examples/9.13_basicStructFraction/fraction.h
+

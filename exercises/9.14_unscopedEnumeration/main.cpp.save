@@ -1,0 +1,17 @@
+#include <iostream>
+
+namespace monsters
+{
+    enum MonsterType
+    {
+        orcs,
+        goblins,
+        troll
+    };
+}
+
+int main()
+{
+
+    return 0;
+}
