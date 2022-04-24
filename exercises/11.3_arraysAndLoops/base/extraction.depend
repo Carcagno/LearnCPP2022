@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650532208 source:/home/carcag/Documents/LearnCPP2022/exercises/11.3_arraysAndLoops/base/main.cpp
+	<iostream>
+	<limits>
+

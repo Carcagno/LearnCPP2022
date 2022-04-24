@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650539999 source:/home/carcag/Documents/LearnCPP2022/exercises/11.3_arraysSorting/selectionSort/main.cpp
+	<iostream>
+	<limits>
+	<utility>
+
