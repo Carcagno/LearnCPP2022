@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650890653 source:/home/carcag/Documents/LearnCPP2022/exercises/11.x_datatructAndDynamicAllocation/11.x.1_itemsEnum/main.cpp
+	<iostream>
+	<array>
+	<numeric>
+
