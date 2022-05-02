@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651241189 source:/home/carcag/Documents/LearnCPP2022/exercises/12.x_functions/12.x.1_binarySearch/main.cpp
+	<iostream>
+	<iterator>
+
