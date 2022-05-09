@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651739650 source:/home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.1_point2d/main.cpp
+	<iostream>
+	"point2d.h"
+
+1651739633 /home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.1_point2d/point2d.h
+	"cmath"
+	<iostream>
+
+1651739539 source:/home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.1_point2d/point2d.cpp
+	"point2d.h"
+

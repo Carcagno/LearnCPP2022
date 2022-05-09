@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651753649 source:/home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.2_randomMonsters/main.cpp
+	"monster.h"
+	<iostream>
+
+1651754454 /home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.2_randomMonsters/monster.h
+	<iostream>
+	<string>
+
+1651754439 source:/home/carcag/Documents/LearnCPP2022/exercises/13.x_basicOOP/13.x.2_randomMonsters/monster.cpp
+	"monster.h"
+
