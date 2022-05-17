@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652813584 source:/home/carcag/Documents/LearnCPP2022/exercises/14.9_overloadingSubscript/14.9.1_mapClass/gradeMap.cpp
+	"gradeMap.h"
+
+1652813318 /home/carcag/Documents/LearnCPP2022/exercises/14.9_overloadingSubscript/14.9.1_mapClass/gradeMap.h
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1652813306 source:/home/carcag/Documents/LearnCPP2022/exercises/14.9_overloadingSubscript/14.9.1_mapClass/main.cpp
+	"gradeMap.h"
+	<iostream>
+
