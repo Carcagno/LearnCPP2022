@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652713386 source:/home/carcag/Documents/LearnCPP2022/exercises/14.4_overloadingIO/14.4.1_overloadingIOFraction/main.cpp
+	<iostream>
+	<numeric>
+
